@@ -7,6 +7,5 @@ int plusPlus(int a) {
 }
 
 int main() {
-    cout << "Hello World!";
     return 0;
 }
